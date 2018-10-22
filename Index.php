@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title></title>
+  <title>Menampilkan Data</title>
   <link rel="stylesheet" type="text/css" href="Style.css">
 </head>
 <body>
